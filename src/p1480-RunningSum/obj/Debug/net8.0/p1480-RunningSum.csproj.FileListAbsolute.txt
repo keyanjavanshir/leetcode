@@ -1,0 +1,15 @@
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/bin/Debug/net8.0/p1480-RunningSum
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/bin/Debug/net8.0/p1480-RunningSum.deps.json
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/bin/Debug/net8.0/p1480-RunningSum.runtimeconfig.json
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/bin/Debug/net8.0/p1480-RunningSum.dll
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/bin/Debug/net8.0/p1480-RunningSum.pdb
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.AssemblyInfoInputs.cache
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.AssemblyInfo.cs
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.csproj.CoreCompileInputs.cache
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.sourcelink.json
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.dll
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/refint/p1480-RunningSum.dll
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.pdb
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/p1480-RunningSum.genruntimeconfig.cache
+/home/keyanjavanshir/projects/leetcode/src/p1480-RunningSum/obj/Debug/net8.0/ref/p1480-RunningSum.dll
